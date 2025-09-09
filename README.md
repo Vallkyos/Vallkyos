@@ -38,7 +38,7 @@ Busco expandir minha atuação acadêmica e profissional em <b>desenvolvimento w
 
 
 ## 🚀 Experiência Profissional
-- **Suporte técnico em sistema ERP** (Abr/2024 – Jun/2025)  
+- **Suporte técnico em sistema ERP**   
   - Atendimento ao usuário e suporte ao sistema ERP  
   - Execução de scripts SQL  
   - Estruturação de redes e cabeamento  
