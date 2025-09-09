@@ -36,7 +36,9 @@ Busco expandir minha atuação acadêmica e profissional em <b>desenvolvimento w
   <a href="https://www.linkedin.com/in/vinicius-oliveira-5683932bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Vallkyos/Vallkyos/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vallkyos/Vallkyos/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 Experiência Profissional
 - **Suporte técnico em sistema ERP**   
