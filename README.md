@@ -1,18 +1,41 @@
-# Vinicius-Silva-de-Oliveira
-My Repository
+<h1>👋 Hello World, eu sou Vinícius Oliveira</h1>
+<p>
+🖥️ <b>Técnico em Informática pelo Instituto Federal de Rondônia.</b></br>
+🎓 <b>Graduando em Tecnologia em Sistemas para Internet (2º período) IFRO</b></br>
+💻 <b>Profissional de tecnologia com experiência em ERP e desenvolvimento</b></br>
+📍 <b>Porto Velho – RO, Brasil</b></br>  
 
-# 👋 Olá, eu sou Vinícius Oliveira
+Formado como <b>Técnico em Informática</b> pelo IFRO, atualmente trabalho com <b>suporte técnico e sistemas ERP</b>, além de estar cursando a graduação em <b>Tecnologia em Sistemas para Internet</b>.  
+Participei de diversos <b>projetos de ensino, extensão e monitoria</b>, que me proporcionaram experiência prática em programação, bancos de dados e apoio pedagógico.  
 
-🎓 **Graduando em Tecnologia em Sistemas para Internet (2º período)**  
-💻 **Profissional de tecnologia com experiência em ERP e desenvolvimento**  
-📍 Porto Velho – RO, Brasil  
+Busco expandir minha atuação acadêmica e profissional em <b>desenvolvimento web, bancos de dados e inovação tecnológica</b>.
+</p>
 
-Formado como **Técnico em Informática** pelo IFRO, atualmente trabalho com **suporte técnico e sistemas ERP**, além de estar cursando a graduação em **Tecnologia em Sistemas para Internet**.  
-Participei de diversos **projetos de ensino, extensão e monitoria**, que me proporcionaram experiência prática em programação, bancos de dados e apoio pedagógico.  
+<h2>📊GitHub Stats:</h2>
 
-Busco expandir minha atuação acadêmica e profissional em **desenvolvimento web, bancos de dados e inovação tecnológica**.  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vallkyos&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallkyos&layout=compact&theme=midnight-purple" />
+</div>
 
----
+
+
+<div align="left">
+<img alt="Vini-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img alt="Vini-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="Vini-Htlm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="Vini-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<img alt="Vini-Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img alt="Vini-Vs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
+
+## 📫 Social:
+<div align="left">
+  <a href="ovini.s.oliveira@gmail.com " target="-blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <a href="www.linkedin.com/in/vinicius-oliveira-5683932bb" target="-blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+</div>
+
+
 
 ## 🚀 Experiência Profissional
 - **Suporte técnico em sistema ERP** (Abr/2024 – Jun/2025)  
@@ -59,76 +82,5 @@ Busco expandir minha atuação acadêmica e profissional em **desenvolvimento we
 - Capacidade analítica  
 - Organização e foco em resultados  
 - Curiosidade e aprendizado contínuo  
-
----
-
-## 🌎 English Version
-
-👋 Hi, I’m **Vinícius Oliveira**  
-
-🎓 **Undergraduate student in Internet Systems Technology (2nd semester)**  
-💻 **Technology professional with experience in ERP systems and development**  
-📍 Porto Velho – RO, Brazil  
-
-I hold a **Technical Degree in Informatics** from IFRO and currently work with **technical support and ERP systems**, while pursuing a **Bachelor’s degree in Internet Systems Technology**.  
-I have participated in several **academic and extension projects**, which provided me with hands-on experience in programming, databases, and academic tutoring.  
-
-I aim to further develop my career in **web development, databases, and technological innovation**.  
-
----
-
-## 🚀 Professional Experience
-- **Technical Support in ERP Systems** (Apr/2024 – Jun/2025)  
-  - User support and ERP maintenance  
-  - SQL scripting  
-  - Network structuring and cabling  
-  - Preventive and corrective maintenance of computers and servers  
-  - Support as a systems analyst  
-
----
-
-## 🎓 Education
-- **Internet Systems Technology – IFRO** *(2nd semester, ongoing)*  
-- **Technical Degree in Informatics – IFRO** *(completed)*  
-
----
-
-## 📘 Academic Projects
-- **Database Textbook (MySQL)**
-  Contribution to introductory content and practical exercises.  
-
-- **Integrative Project: Programming and Systems Analysis**
-  Development of a scheduling system using databases and systems analysis fundamentals.  
-
-- **Tutoring in Object-Oriented Programming (Python)**
-  Academic support with a focus on coding best practices.  
-
----
-
-## 🛠️ Hard Skills
-- **Programming:** Python, PHP, Object-Oriented Programming, Web Development  
-- **Databases:** MySQL, SQL Server  
-- **Networking & Infrastructure:** Structured cabling, computer and printer maintenance  
-- **Operating Systems:** Windows/Linux installation and support  
-- **English:** Intermediate  
-
----
-
-## 🤝 Soft Skills
-- Proactivity  
-- Communication skills  
-- Teamwork  
-- Logical reasoning  
-- Analytical thinking  
-- Organization and results-driven focus  
-- Curiosity and continuous learning  
-
----
-
-## 📫 Contact
-- 📧 E-mail: ovini.s.oliveira@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/vinicius-oliveira-5683932bb)  
-- 📘 [Lattes](https://lattes.cnpq.br/5682862327499027)  
-
 ---
 ⭐️ *"Always learning, always building."*
