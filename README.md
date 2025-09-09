@@ -40,6 +40,9 @@ Busco expandir minha atuação acadêmica e profissional em <b>desenvolvimento w
   <img src="https://raw.githubusercontent.com/Vallkyos/Vallkyos/output/snake.svg" alt="Snake animation" />
 </div>
 
+
+<h1>🔎Detalhes da minha jornada:</h1>
+
 ## 🚀 Experiência Profissional
 - **Suporte técnico em sistema ERP**   
   - Atendimento ao usuário e suporte ao sistema ERP  
