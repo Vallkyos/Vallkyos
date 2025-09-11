@@ -30,7 +30,7 @@ Busco expandir minha atuação acadêmica e profissional em <b>desenvolvimento w
 
 <div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vallkyos&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/Vallkyos)
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vallkyos&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=true)](https://github.com/Vallkyos)
 
 </div>
 
