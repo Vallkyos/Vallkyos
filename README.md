@@ -116,5 +116,5 @@ Curiosidade e aprendizado contínuo  <br>
 </div>
 
 <a href="https://github.com/Vallkyos">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=⭐️+Always+learning,+always%2C+building.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=⭐️+Always+learning,+always+building.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
